@@ -9,3 +9,14 @@ C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\Tehtava1\obj\Debug\netcoreapp2.
 C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.AssemblyInfo.cs
 C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.dll
 C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.pdb
+C:\Backend-kurssi\Tehtava1\bin\Debug\netcoreapp2.1\Tehtava1.deps.json
+C:\Backend-kurssi\Tehtava1\bin\Debug\netcoreapp2.1\Tehtava1.runtimeconfig.json
+C:\Backend-kurssi\Tehtava1\bin\Debug\netcoreapp2.1\Tehtava1.runtimeconfig.dev.json
+C:\Backend-kurssi\Tehtava1\bin\Debug\netcoreapp2.1\Tehtava1.dll
+C:\Backend-kurssi\Tehtava1\bin\Debug\netcoreapp2.1\Tehtava1.pdb
+C:\Backend-kurssi\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.csprojAssemblyReference.cache
+C:\Backend-kurssi\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.csproj.CoreCompileInputs.cache
+C:\Backend-kurssi\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.AssemblyInfoInputs.cache
+C:\Backend-kurssi\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.AssemblyInfo.cs
+C:\Backend-kurssi\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.dll
+C:\Backend-kurssi\Tehtava1\obj\Debug\netcoreapp2.1\Tehtava1.pdb
