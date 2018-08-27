@@ -1,0 +1,14 @@
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\bin\Debug\netcoreapp2.1\web-api.deps.json
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\bin\Debug\netcoreapp2.1\web-api.runtimeconfig.json
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\bin\Debug\netcoreapp2.1\web-api.runtimeconfig.dev.json
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\bin\Debug\netcoreapp2.1\web-api.dll
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\bin\Debug\netcoreapp2.1\web-api.pdb
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.csprojAssemblyReference.cache
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.csproj.CoreCompileInputs.cache
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.RazorAssemblyInfo.cache
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.RazorAssemblyInfo.cs
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.AssemblyInfoInputs.cache
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.AssemblyInfo.cs
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.RazorTargetAssemblyInfo.cache
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.dll
+C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\web-api\obj\Debug\netcoreapp2.1\web-api.pdb
