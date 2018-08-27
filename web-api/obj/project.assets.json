@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JenLi\\OneDrive\\Asiakirjat\\Serverihommat\\web-api\\web-api.csproj",
+      "projectUniqueName": "c:\\Backend-kurssi\\web-api\\web-api.csproj",
       "projectName": "web-api",
-      "projectPath": "C:\\Users\\JenLi\\OneDrive\\Asiakirjat\\Serverihommat\\web-api\\web-api.csproj",
+      "projectPath": "c:\\Backend-kurssi\\web-api\\web-api.csproj",
       "packagesPath": "C:\\Users\\JenLi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JenLi\\OneDrive\\Asiakirjat\\Serverihommat\\web-api\\obj\\",
+      "outputPath": "c:\\Backend-kurssi\\web-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

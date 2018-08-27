@@ -3238,11 +3238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JenLi\\OneDrive\\Asiakirjat\\Serverihommat\\Tehtava1\\Tehtava1.csproj",
+      "projectUniqueName": "c:\\Backend-kurssi\\Tehtava1\\Tehtava1.csproj",
       "projectName": "Tehtava1",
-      "projectPath": "C:\\Users\\JenLi\\OneDrive\\Asiakirjat\\Serverihommat\\Tehtava1\\Tehtava1.csproj",
+      "projectPath": "c:\\Backend-kurssi\\Tehtava1\\Tehtava1.csproj",
       "packagesPath": "C:\\Users\\JenLi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JenLi\\OneDrive\\Asiakirjat\\Serverihommat\\Tehtava1\\obj\\",
+      "outputPath": "c:\\Backend-kurssi\\Tehtava1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

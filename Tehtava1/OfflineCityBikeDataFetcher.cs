@@ -7,7 +7,7 @@ namespace Tehtava1
     public class OfflineCityBikeDataFetcher : ICityBikeDataFetcher {
         public async Task<int> GetBikeCountInStation (string stationName) {
             try {
-                string[] lines = await System.IO.File.ReadAllLinesAsync (@"C:\Users\JenLi\OneDrive\Asiakirjat\Serverihommat\Tehtava1\bikedata.txt");
+                string[] lines = await System.IO.File.ReadAllLinesAsync (@"C:\Backend-kurssi\Tehtava1.bikedata.txt");
 
                 int bikes = 0;
                 bool found = false;
