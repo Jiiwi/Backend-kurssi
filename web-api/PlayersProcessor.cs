@@ -9,7 +9,8 @@ namespace web_api
     {
         private IRepository _repository;
 
-        public PlayersProcessor(IRepository repository) {
+        public PlayersProcessor(IRepository repository)
+        {
             _repository = repository;
         }
 
@@ -42,6 +43,25 @@ namespace web_api
         public Task<Player> Delete(Guid id)
         {
             return _repository.DeletePlayer(id);
+        }
+
+        public Task<Player[]> MoreThanXScore(int x)
+        {
+            return _repository.MoreThanXScore(x);
+        }
+
+        public Task<Player> GetPlayerWithName(string name)
+        {
+            return _repository.GetPlayerWithName(name);
+        }
+        public Task<Player[]> GetPlayersWithItem(Item.ItemType itemType)
+        {
+            return _repository.GetPlayersWithItem(itemType);
+        }
+
+        public Task<int> GetLevelsWithMostPlayers()
+        {
+            return _repository.GetLevelsWithMostPlayers();
         }
     }
 }

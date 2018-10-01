@@ -154,5 +154,61 @@ namespace web_api
 
             return null;
         }
+
+        public async Task<Player[]> MoreThanXScore(int x)
+        {
+            await Task.CompletedTask;
+            List<Player> moreThanPlayers = new List<Player>();
+            foreach (var player in players)
+            {
+                if (player.Score > 0)
+                {
+                    moreThanPlayers.Add(player);
+                }
+            }
+            return moreThanPlayers.ToArray();
+        }
+
+        public async Task<Player> GetPlayerWithName(string name)
+        {
+            await Task.CompletedTask;
+
+            foreach (var player in players)
+            {
+                if (player.Name == name)
+                {
+                    return player;
+                }
+            }
+            return null;
+        }
+
+        public async Task<Player[]> GetPlayersWithItem(Item.ItemType itemType)
+        {
+            await Task.CompletedTask;
+            List<Player> playersWithItem = new List<Player>();
+
+            foreach (var player in players)
+            {
+                foreach (var item in player.Items)
+                {
+                    if (item.Type == itemType)
+                    {
+                        playersWithItem.Add(player);
+                    }
+                }
+            }
+            return playersWithItem.ToArray();
+        }
+
+        public Task<int> GetLevelsWithMostPlayers()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task WriteToLog(LogEntry logEntry)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
